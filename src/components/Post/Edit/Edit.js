@@ -20,7 +20,6 @@ export default class Edit extends Component {
   }
 
   updatePost() {
-
   }
 
   render() {
